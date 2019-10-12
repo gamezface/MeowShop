@@ -14,6 +14,7 @@ Animal World, **Cats**. :shipit: :octocat:
 * [CatFacts](https://alexwohlbruck.github.io/cat-facts/)
 * [TheCatApi](https://docs.thecatapi.com/)
 * [HTTPCat](https://http.cat/)
+* [Reqres](https://reqres.in/)
 
 ## Libraries
 
