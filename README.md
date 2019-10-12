@@ -8,7 +8,6 @@ Animal World, **Cats**. :shipit: :octocat:
 * XML
 * [Figma](https://www.figma.com/file/pBEDSiWK4E0jnjB3ALy7cG/MeowShop)
 * Trello
-* Firebase (Authentication)
 
 ## APIS
 * [CatFacts](https://alexwohlbruck.github.io/cat-facts/)
